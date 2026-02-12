@@ -10,10 +10,10 @@
 https://corosuke-shibuya.sakura.ne.jp/0124/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合） ※2/10修正
-- ID: kuwajima
-- PW: manager
-- ID: corosuke
-- PW: member
+- ID: manager1
+- PW: manager1
+- ID: member
+- PW: manager1
 
 - ## ⑤工夫した点・こだわった点 
 - パスワードは password_hash() / password_verify() を用いてハッシュ化し、平文保存しない形にしました。
