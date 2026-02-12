@@ -9,7 +9,7 @@
 ## ③アプリのデプロイURL デプロイしている場合はURLを記入（任意） 
 https://corosuke-shibuya.sakura.ne.jp/0124/
 
-## ④アプリのログイン用IDまたはPassword（ある場合） ※2/10修正
+## ④アプリのログイン用IDまたはPassword（ある場合） ※2/12再修正
 - ID: manager1
 - PW: manager1
 - ID: member
